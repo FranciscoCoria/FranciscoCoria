@@ -12,18 +12,20 @@ Me interesa el análisis, diseño y desarrollo de sistemas de información. Actu
 
 **Bases de datos:** PostgreSQL, Prisma ORM.
 
-**Herramientas:** Git, GitHub, Visual Studio Code, Linux.
+**Herramientas:** Git, GitHub, Visual Studio Code.
 
 ## 🚀 Proyectos
 
 ### SiGACE – Sistema de Gestión Administrativa para Comedores Escolares
 
+**Proyecto académico | En desarrollo**
+
 Aplicación web orientada a la gestión administrativa de comedores escolares.
 
 - Participación en el análisis de requerimientos y definición de funcionalidades.
 - Organización modular y diseño de la base de datos.
-- Arquitectura cliente-servidor.
-- Integración de frontend, backend y PostgreSQL.
+- Implementación de una arquitectura cliente-servidor.
+- Integración de frontend, backend y persistencia de datos.
 
 **Tecnologías:** JavaScript, Node.js, Express, PostgreSQL y Prisma ORM.
 
